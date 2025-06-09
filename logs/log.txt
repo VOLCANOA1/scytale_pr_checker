@@ -1,5 +1,0 @@
-2025-06-09 21:35:09,697 [INFO] Processed PR #4 | Review: False | Checks: False
-2025-06-09 21:35:10,279 [INFO] Processed PR #3 | Review: False | Checks: False
-2025-06-09 21:35:10,783 [INFO] Processed PR #2 | Review: False | Checks: False
-2025-06-09 21:35:11,445 [INFO] Processed PR #1 | Review: False | Checks: False
-2025-06-09 21:35:11,450 [INFO] Report saved to data/processed/report.csv
