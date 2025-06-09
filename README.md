@@ -3,6 +3,7 @@ Scytale PR Checker - Home Assignment
 A lightweight script tool to analyze merged pull requests from a GitHub repository and check their compliance.
 
 Features:
+--------
 
 - Fetches all merged PRs from a given GitHub repository (single repository from the Scytale organization GitHub)
 - Verifies:
@@ -14,6 +15,7 @@ Features:
 
 ---
 Getting Started
+---------------
 
 1. Clone the repository
     git clone https://github.com/YOUR_USERNAME/scytale_pr_checker.git
