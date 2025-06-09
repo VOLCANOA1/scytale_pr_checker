@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env file with secrets
+.env
+
+# Log files
+logs/
+
+# Output data
+data/raw/
+data/processed/
+.env
+.env
