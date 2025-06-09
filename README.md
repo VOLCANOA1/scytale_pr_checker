@@ -47,21 +47,24 @@ Output
 This will output a report to:
 data/processed/report.csv
 
-
+```
  Project Structure
+ -----------------
 
-├── api.py                 # GitHub API interaction
-├── utils.py               # Helper functions (e.g. date filtering)
-├── extract.py             # Fetch merged PRs
-├── transform.py           # Analyze PRs and create a report
-├── data/
-│   ├── raw/               # JSON input
-│   └── processed/         # CSV output
-├── logs/
-│   └── log.txt            # Full log output
-├── .env                   # Your GitHub token
-├── requirements.txt
-└── README.md
+├── api.py                 # GitHub API interaction  
+├── utils.py               # Helper functions (e.g. date filtering)  
+├── extract.py             # Fetch merged PRs  
+├── transform.py           # Analyze PRs and create a report  
+├── data/  
+│   ├── raw/               # JSON input  
+│   └── processed/         # CSV output  
+├── logs/  
+│   └── log.txt            # Full log output  
+├── .env                   # Your GitHub token (not committed)  
+├── requirements.txt  
+├── README.md  
+└── summary.md             # API endpoints summary  
+```
 
 
 # Notes
